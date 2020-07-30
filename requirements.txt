@@ -1,0 +1,14 @@
+scipy
+numpy
+pandas
+matplotlib
+seaborn
+geopy
+holidays
+itertools-s
+more-itertools
+sklearn
+lightgbm
+hyperopt
+statistics
+dateutil
